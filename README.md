@@ -36,3 +36,5 @@ As a core member of the team, I was responsible for the following aspects:
 ## Conclusion
 
 Working on Lilith was an enriching experience, allowing me to apply and expand my skills in game development, particularly in character mechanics, animation, and interaction systems. This project also enhanced my collaboration and problem-solving abilities within a team setting.
+
+**Note:** The source code for the Lilith project is not available in this repository to protect the intellectual property of the team. However, we may share gameplay videos to showcase the game's features and mechanics in the future.
