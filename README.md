@@ -4,6 +4,8 @@
 
 Lilith is a game developed using Unreal Engine 5 by a team of five members as part of the Game Studio course for my Master's program at Istanbul Technical University (ITU). The project spanned approximately four months of development.
 
+![image](https://github.com/user-attachments/assets/84b62a81-368b-4142-b273-4d94bed1fd17)
+
 ## My Contributions
 
 As a core member of the team, I was responsible for the following aspects:
